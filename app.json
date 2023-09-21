@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "YumRider",
+    "slug": "UC",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/fast-food.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/fast-food.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f50057"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.weiwei0912.yumrider"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/fast-food.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.weiwei0912.yumrider"
+    },
+    "description": ""
+  }
+}
